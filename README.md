@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prem Prajapati</h1>
+<h4 align="center">Full Stack Web Developer</h4>
+<h4 align="center">Location : Patan, Gujarat</h4>
 
-<!--
-**premprj2506/premprj2506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Language Skills
+
+1. Programming Language : JAVA, C, C++,
+2. FrontEnd Language : ReactJS, JS, Boostrap, Tailwind CSS, CSS, HTML, EJS
+3. Mern Stack : ReactJS, NodeJS, ExpressJS, MongoDB
+4. Database : MySql, MongoDB
+5. DSA Work : JAVA
+6. Framworks : React, Express.js
+7. Version Control : Git, Github
+8. API Integration : RESTFulAPI, Hoppscotch, Whether API, MapBox API, Gmail API, JSON Format
+9. Hosting Work : OnRender
+10. I have project worked overall in 5+
